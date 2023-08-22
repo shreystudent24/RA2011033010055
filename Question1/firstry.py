@@ -12,7 +12,6 @@ data = {
     "data": [],
     "dataMode": "raw",
     "rawModeData": "",
-    "url": "https://api.example.com/your_endpoint",
     "description": "",
     "collectionId": CID
 }
